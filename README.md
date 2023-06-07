@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Lamarche</h1>
-<h3 align="center">A passionate Fullstack JavaScript Software Engineer from Dominican Republic 🌴</h3>
+<h3 align="center">A passionate student to become a Fullstack JavaScript Software Engineer from Dominican Republic 🌴</h3>
 
 - 📫 How to reach me **lamarcheeduardo@gmail.com**
 
